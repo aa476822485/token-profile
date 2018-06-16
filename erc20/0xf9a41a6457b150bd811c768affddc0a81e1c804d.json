@@ -1,4 +1,15 @@
 {
   "symbol": "OFC",
   "address": "0xf9a41a6457b150bd811c768affddc0a81e1c804d"
+  "overview": {
+        "en": "We applied the OFC in communit and provide services to each family.",
+        "zh": "应用到社区，服务到每个家庭"
+    },
+  "email": "OurFamilyChain@gmail.com"
+  "website": "http://OurFamilyChain.com",
+  "whitepaper": "http://OurFamilyChain.com/whitepapers/whitepapers-OFC-cn.pdf",
+  "published_on": "2018-06-01",
+  "links": {
+  "twitter": "https://twitter.com/our_family_chain",
+  "facebook": "https://www.facebook.com/our_family_chain.info"
 }
